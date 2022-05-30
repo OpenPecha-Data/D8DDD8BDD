@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   65c602c141714f909c487603375c0e9d:
     parts: {}
+    work_id: D4319
     span:
-    - vol: 114
+    - base: '2278'
       start: 1
       end: 2400
-    work_id: D4319
